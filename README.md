@@ -1,7 +1,7 @@
-# SOM algorithm in c by Amassin NACERDDINE directed by Dr.JJ MARIAGE
+# SOM algorithm 
 
 [![N|Solid](http://www.pitt.edu/~is2470pb/Spring05/FinalProjects/Group1a/tutorial/kohonen1.gif)](https://nodesource.com/products/nsolid)
-
+http://www.pitt.edu/~is2470pb/Spring05/FinalProjects/Group1a/tutorial/som.html
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://fr.wikipedia.org/wiki/Carte_autoadaptative)
 
 Les cartes autoadaptatives, cartes auto-organisatrices ou cartes topologiques forment une classe de réseau de neurones artificiels fondée sur des méthodes d'apprentissage non-supervisées. .
