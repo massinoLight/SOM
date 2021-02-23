@@ -43,7 +43,7 @@ $ ./som
  -Comparer le resultat entre les deux programmes écrit en Java et c 
  
  ### Resultat obtenu
- [![N|Solid](https://github.com/massinoLight/SOM_iris_data/blob/main/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2016.59.32.png)](https://nodesource.com/products/nsolid)
+ ![alt text](https://github.com/massinoLight/SOM/blob/master/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2016.59.32.png)
 
 
 ### Ref
